@@ -9,3 +9,5 @@ Logo format:
 ![Emily logo](logo-big.png)
 
 The `*-small` images are pixel perfect, with the `.pixil` files being the raw files from https://www.pixilart.com/draw.
+
+![Logo in the style of a hanzi character](emzi.png)
